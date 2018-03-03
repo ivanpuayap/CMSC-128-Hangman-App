@@ -1,1 +1,3 @@
-# CMSC-128-Hangman-App
+# CMSC-128-Hangperson-App
+
+An assignment in CMSC 128
